@@ -64,7 +64,6 @@ Languages:
 * Go
 * JavaScript
 * TypeScript
-* SQL
 * Python
 * Java
 * Databases
